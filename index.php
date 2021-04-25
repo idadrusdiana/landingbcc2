@@ -101,7 +101,8 @@
         <div id="carouselThree" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselThree" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselThree" data-slide-to="1"></li>                
+                <li data-target="#carouselThree" data-slide-to="1"></li>
+                <li data-targer="#carouselThree" data-slide-to="2"></li>               
             </ol>
 
             <div class="carousel-inner">
@@ -110,7 +111,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="slider-content">
-                                    <h1 class="title">Batujajar Community Care</h1>
+                                    <h1 class="title" style="font-size: 80px;">Batujajar Community Care</h1>
                                     <p class="text">Hidup ini indah Seindah saat kita dapat berbagi dengan sesama</p>                                                                     
                                 </div>
                             </div>
@@ -118,7 +119,7 @@
                     </div> <!-- container -->
                     <div class="slider-image-box d-none d-lg-flex align-items-end">
                         <div class="slider-image">
-                            <img src="assets/images/slider/1.png" alt="Hero">
+                            <img src="assets/images/slider/a.jpeg" alt="Hero">
                         </div> <!-- slider-imgae -->
                     </div> <!-- slider-imgae box -->
                 </div> <!-- carousel-item -->
@@ -128,18 +129,39 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="slider-content">
-                                    <h1 class="title">Perjalanan Hidup...</h1>
-                                    <p class="text">Perjalanan hidup yang indah adalah ketika kita mampu berbagi bukan menikamatinya sendiri</p>                                    
+                                    <h1 class="title">Berbagi...</h1>
+                                    <h1 class="title">Dengan</h1>
+                                    <h1 class="title"> Orang Lain</h1>
+                                    <p class="text" style="font-size: 15px;">adalah bentuk terbaik mensyukuri apa yang telah kita dapatkan</p>                                    
+                                </div> <!-- slider-content -->
+                            </div>
+                        </div> <!-- row -->
+                    </div> <!-- container -->
+                    <div class="slider-image-box d-none d-lg-flex align-items-end pb-4">
+                        <div class="slider-image">
+                            <img src="assets/images/slider/c.jpeg" alt="Hero">
+                        </div> <!-- slider-imgae -->
+                    </div> <!-- slider-imgae box -->
+                </div> <!-- carousel-item -->
+
+                <div class="carousel-item">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="slider-content">
+                                    <h1 class="title">Perjalanan Hidup Yang Indah...</h1>                                    
+                                    <p class="text" style="font-size: 15px;">adalah ketika kita mampu berbagi bukan menikamatinya sendiri</p>                                    
                                 </div> <!-- slider-content -->
                             </div>
                         </div> <!-- row -->
                     </div> <!-- container -->
                     <div class="slider-image-box d-none d-lg-flex align-items-end">
                         <div class="slider-image">
-                            <img src="assets/images/slider/2.png" alt="Hero">
+                            <img src="assets/images/slider/b.jpeg" alt="Hero">
                         </div> <!-- slider-imgae -->
                     </div> <!-- slider-imgae box -->
-                </div> <!-- carousel-item -->                
+                </div> <!-- carousel-item -->
+
             </div>
 
             <a class="carousel-control-prev" href="#carouselThree" role="button" data-slide="prev">
@@ -324,16 +346,6 @@
                                             <h5 class="name">Mr. Jems Bond</h5>
                                             <span class="sub-title">CEO Mbuild Firm</span>
                                         </div>
-                                    </div>
-                                    <div class="author-review">
-                                        <ul class="star">
-                                            <li><i class="lni lni-star-filled"></i></li>
-                                            <li><i class="lni lni-star-filled"></i></li>
-                                            <li><i class="lni lni-star-filled"></i></li>
-                                            <li><i class="lni lni-star-filled"></i></li>
-                                            <li><i class="lni lni-star-filled"></i></li>
-                                        </ul>
-                                        <span class="review">( 7 Reviews )</span>
                                     </div>
                                 </div>
                             </div> <!-- single testimonial -->
