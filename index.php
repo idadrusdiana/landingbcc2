@@ -209,67 +209,100 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                         <div class="team-image">
-                            <img src="assets/images/activity/motor.jpeg" alt="Team">
+                            <img src="assets/images/activity/fieldtreep.jpg" alt="fieldtreep">
                         </div>
-                        <div class="team-content">                           
-                            <h4 class="team-name">QURBAN</h4> <br>
+                        <!-- <div class="team-content">                           
+                            <h4 class="team-name">Fieldtreep</h4> <br>
                             <span class="sub-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</span>
-                        </div>
+                        </div> -->
                     </div> <!-- single team -->
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                         <div class="team-image">
-                            <img src="assets/images/activity/motor.jpeg" alt="Team">
+                            <img src="assets/images/activity/lifeskill.jpg" alt="life skill">
                         </div>
-                        <div class="team-content">                            
-                            <h4 class="team-name">BAKSOS</h4> <br>
+                        <!-- <div class="team-content">                            
+                            <h4 class="team-name">LIFE SKILL</h4> <br>
                             <span class="sub-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</span>
-                        </div>
+                        </div> -->
                     </div> <!-- single team -->
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                         <div class="team-image">
-                            <img src="assets/images/activity/motor.jpeg" alt="Team">
+                            <img src="assets/images/activity/literasi.jpg" alt="Team">
                         </div>
-                        <div class="team-content">                            
+                        <!-- <div class="team-content">                            
                             <h4 class="team-name">ROAD SHOW KE UNIVERSITAS</h4> <br>
                             <span class="sub-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</span>
-                        </div>
+                        </div> -->
                     </div> <!-- single team -->
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                         <div class="team-image">
-                            <img src="assets/images/activity/motor.jpeg" alt="Team">
+                            <img src="assets/images/activity/makrame 2.jpg" alt="makrame">
                         </div>
-                        <div class="team-content">                           
+                        <!-- <div class="team-content">                           
                             <h4 class="team-name">MENGANYAM</h4> <br>
                             <span class="sub-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</span>
-                        </div>
+                        </div> -->
                     </div> <!-- single team -->
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                         <div class="team-image">
-                            <img src="assets/images/activity/motor.jpeg" alt="Team">
+                            <img src="assets/images/activity/outbond.jpg" alt="outbond">
                         </div>
-                        <div class="team-content">                           
+                        <!-- <div class="team-content">                           
                             <h4 class="team-name">MENGGAMBAR</h4> <br>
                             <span class="sub-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</span>
-                        </div>
+                        </div> -->
                     </div> <!-- single team -->
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
                         <div class="team-image">
-                            <img src="assets/images/activity/motor.jpeg" alt="Team">
+                            <img src="assets/images/activity/p2m.jpg" alt="p2m">
                         </div>
-                        <div class="team-content">                           
+                        <!-- <div class="team-content">                           
                             <h4 class="team-name">BUKA PUASA BARENG</h4> <br>
                             <span class="sub-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</span>
+                        </div> -->
+                    </div> <!-- single team -->
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                        <div class="team-image">
+                            <img src="assets/images/activity/parenting.jpg" alt="parenting">
                         </div>
+                        <!-- <div class="team-content">                           
+                            <h4 class="team-name">BUKA PUASA BARENG</h4> <br>
+                            <span class="sub-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</span>
+                        </div> -->
+                    </div> <!-- single team -->
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                        <div class="team-image">
+                            <img src="assets/images/activity/pesantren kilat.jpg" alt="pessantren kilat">
+                        </div>
+                        <!-- <div class="team-content">                           
+                            <h4 class="team-name">BUKA PUASA BARENG</h4> <br>
+                            <span class="sub-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</span>
+                        </div> -->
+                    </div> <!-- single team -->
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="team-style-eleven text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                        <div class="team-image">
+                            <img src="assets/images/activity/workshop.jpg" alt="workshop">
+                        </div>
+                        <!-- <div class="team-content">                           
+                            <h4 class="team-name">BUKA PUASA BARENG</h4> <br>
+                            <span class="sub-title">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</span>
+                        </div> -->
                     </div> <!-- single team -->
                 </div>
             </div> <!-- row -->
